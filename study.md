@@ -14,6 +14,8 @@ class.
 
 Submit detailed answers to the following in this file via a pull request:
 
+Answered in Pull request.
+
 -   A wireframe of what your game project will look like.
 -   The data structure you plan to use.
 -   How you will take the markup of the game board and represent it in JS
